@@ -1,6 +1,4 @@
 Test
 fileToIgnore.txt
-.pypirc
-LICENSE.txt
-File_to_discard
+File_to_discard.txt
 
