@@ -7,6 +7,6 @@ setup(
     description = 'This package allows to validate errors of type NoStrError',
     author = 'Alexander Castellanos',
     author = 'acastll1508@gmail.com',
-    url = ''
+    url = 'https://github.com/Jhonahernandez/Git-Test'
     keyword = ['error', 'str', 'NoStrError']
 )
